@@ -102,23 +102,23 @@ if h=='1':
     print(" ")
     i=input("Enter the city number you want to visit :")
     if i=='1':
-        print("For Kashmir TotalPackage for 3n4 days is Rs 21,000 and for 5n 6days is 31,000(Children under 5 are Free)")
+        print("For Kashmir TotalPackage for 3n4 days is Rs 21,000 and for 5n 6days is 31,000(Children under age 5 are Free)")
         first=j*21,000
         first2=j*31,000
     elif i=='2':
-        print("For Shimla_Manali Total Package for 3n4days is Rs 24,000 and for 5n 6days is 34,000(Children under 5 are Free)")
+        print("For Shimla_Manali Total Package for 3n4days is Rs 24,000 and for 5n 6days is 34,000(Children under age 5 are Free)")
         first=j*24,000
         first2=j*34,000
     elif i=='3':
-        print("For Darjeeling_Gangtok Total Package for 3n 4days is Rs 52,000 and 5n 6 daysis 62,000(Children under 5 are Free)")
+        print("For Darjeeling_Gangtok Total Package for 3n 4days is Rs 52,000 and 5n 6 daysis 62,000(Children under age 5 are Free)")
         first=j*52,000
         first2=j*62,000
     elif i=='4':
-        print("For Kerala Total Package for 3n 4days is Rs 35,000 and for 5n 6 days is 45,000(Children under 5 are Free)")
+        print("For Kerala Total Package for 3n 4days is Rs 35,000 and for 5n 6 days is 45,000(Children under age 5 are Free)")
         first=j*35,000
         first2=j*45,000
     elif i=='5':
-        print("For OOTY_Mysore Toatal Package for 3n 4days is Rs 55,000 and for 5n 6days is 65,000(Children under 5 are Free)")
+        print("For OOTY_Mysore Toatal Package for 3n 4days is Rs 55,000 and for 5n 6days is 65,000(Children under age 5 are Free)")
         first=j*55,000
         first2=j*65,000
     else :
